@@ -1,0 +1,918 @@
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_100.jpg 0,150,264,487,0 310,227,508,506,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_101.jpg 136,57,485,511,0 112,401,257,508,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_103.jpg 252,28,511,497,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_105.jpg 135,79,476,510,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_107.jpg 4,195,177,507,0 170,392,297,506,1 209,60,512,488,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_11.jpg 0,209,274,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_110.jpg 3,12,268,217,0 156,50,503,372,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_111.jpg 7,119,246,476,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_113.jpg 1,243,144,481,0 112,16,390,147,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_114.jpg 0,26,128,336,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_115.jpg 146,309,449,504,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_116.jpg 80,44,417,337,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_118.jpg 141,131,309,467,0 240,91,507,507,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_119.jpg 1,188,185,486,0 227,73,512,502,0 159,391,325,511,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_120.jpg 0,104,230,432,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_121.jpg 124,51,478,220,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_122.jpg 1,193,208,478,0 211,55,512,484,0 184,421,393,511,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_123.jpg 212,52,416,168,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_125.jpg 124,48,468,512,0 110,362,202,512,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_126.jpg 1,76,80,290,0 20,7,390,419,0 255,68,502,299,0 421,189,508,489,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_127.jpg 73,233,383,491,0 0,152,43,233,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_128.jpg 284,119,500,509,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_129.jpg 0,212,196,495,0 215,90,512,498,0 143,366,349,511,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_13.jpg 0,188,208,497,0 199,81,512,505,0 143,421,354,511,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_133.jpg 1,263,171,467,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_135.jpg 159,127,319,467,0 231,98,511,488,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_136.jpg 12,8,296,210,0 60,234,444,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_137.jpg 127,101,283,468,0 206,63,511,500,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_138.jpg 1,257,169,464,0 439,223,512,302,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_139.jpg 133,112,292,476,0 220,60,512,488,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_140.jpg 13,140,247,501,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_142.jpg 4,146,303,499,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_143.jpg 0,244,96,356,0 273,70,512,238,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_144.jpg 138,75,512,509,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_145.jpg 3,108,300,297,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_146.jpg 4,207,140,477,0 192,61,512,494,0 128,408,339,506,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_147.jpg 62,344,373,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_148.jpg 1,44,132,344,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_149.jpg 248,45,507,389,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_15.jpg 277,56,464,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_150.jpg 200,43,512,170,0 3,113,167,370,0 115,414,266,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_152.jpg 1,9,105,72,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_153.jpg 281,60,495,339,0 143,104,274,488,0 0,33,178,164,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_154.jpg 154,76,512,415,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_157.jpg 42,12,348,363,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_160.jpg 5,61,398,432,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_161.jpg 0,193,176,488,0 200,92,512,484,0 138,417,371,505,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_163.jpg 202,30,508,512,0 120,368,278,512,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_164.jpg 265,303,438,444,0 172,9,512,322,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_166.jpg 0,82,240,399,0 403,155,512,267,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_17.jpg 68,205,411,464,1 204,63,330,216,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_170.jpg 302,322,511,483,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_171.jpg 7,314,261,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_172.jpg 0,211,372,499,0 430,138,509,490,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_173.jpg 97,12,371,509,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_174.jpg 14,362,213,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_175.jpg 0,208,278,506,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_176.jpg 257,91,512,491,0 205,405,405,500,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_178.jpg 134,53,480,511,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_179.jpg 135,152,410,482,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_180.jpg 161,106,332,460,0 252,79,511,486,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_181.jpg 254,60,508,512,0 166,401,349,512,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_182.jpg 0,197,292,492,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_183.jpg 0,193,272,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_184.jpg 2,91,175,511,0 271,391,407,512,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_185.jpg 32,159,260,391,1 20,3,505,206,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_188.jpg 35,238,194,511,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_189.jpg 1,134,283,310,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_19.jpg 197,166,511,508,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_191.jpg 164,144,378,508,0 360,76,512,165,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_192.jpg 92,72,511,273,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_193.jpg 116,64,500,506,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_194.jpg 231,60,388,190,0 389,75,512,441,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_2.jpg 140,96,327,475,0 211,74,512,492,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_20.jpg 248,81,464,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_204.jpg 226,35,511,507,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_205.jpg 4,229,273,512,0 231,55,512,213,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_207.jpg 0,36,397,204,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_21.jpg 0,192,98,299,0 128,65,490,512,0 282,58,512,219,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_210.jpg 85,231,464,511,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_211.jpg 263,116,511,501,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_212.jpg 40,48,459,416,0 122,275,450,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_214.jpg 101,218,412,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_215.jpg 0,36,139,392,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_219.jpg 1,176,279,377,0 230,192,432,512,0 311,60,512,179,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_22.jpg 292,81,453,236,0 1,2,265,73,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_220.jpg 340,84,420,271,0 300,313,441,409,0 178,310,288,430,0 202,32,315,115,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_221.jpg 7,199,168,490,0 199,63,511,501,0 154,398,347,511,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_222.jpg 77,170,397,433,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_223.jpg 1,425,284,511,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_224.jpg 0,183,297,509,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_225.jpg 99,109,501,411,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_226.jpg 264,44,512,487,0 84,62,237,316,0 205,412,363,512,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_228.jpg 187,71,493,493,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_229.jpg 224,340,489,511,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_23.jpg 2,62,360,232,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_230.jpg 27,118,248,264,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_234.jpg 0,53,141,325,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_235.jpg 3,163,302,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_237.jpg 0,193,89,313,0 166,65,509,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_24.jpg 35,141,268,319,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_240.jpg 0,176,89,235,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_241.jpg 211,68,375,180,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_243.jpg 70,139,432,460,1 0,194,102,447,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_246.jpg 137,67,498,364,0 1,44,194,181,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_248.jpg 275,160,480,491,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_249.jpg 1,20,146,184,0 1,36,452,401,0 295,79,506,296,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_25.jpg 3,36,398,262,0 309,30,511,220,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_252.jpg 257,71,504,497,0 176,424,351,510,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_253.jpg 183,154,421,329,1 330,325,507,502,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_254.jpg 63,265,225,408,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_255.jpg 1,74,137,467,0 155,257,294,512,0 248,51,512,147,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_257.jpg 1,80,338,408,0 179,40,512,137,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_26.jpg 12,217,256,504,0 289,56,512,220,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_260.jpg 5,116,200,391,0 204,27,511,189,0 163,364,293,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_261.jpg 195,46,378,237,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_262.jpg 117,16,512,328,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_266.jpg 48,54,505,249,0 341,320,511,417,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_27.jpg 6,205,274,510,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_270.jpg 220,25,430,168,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_271.jpg 1,238,194,502,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_272.jpg 51,179,507,363,0 0,14,128,199,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_273.jpg 0,5,454,440,0 373,160,510,483,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_275.jpg 42,128,258,413,1 242,259,464,450,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_278.jpg 231,71,502,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_28.jpg 6,178,190,499,0 184,64,512,495,0 168,401,393,512,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_280.jpg 116,355,278,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_281.jpg 396,230,511,352,0 333,165,468,247,0 286,375,420,446,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_283.jpg 325,299,512,511,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_285.jpg 195,53,453,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_286.jpg 0,87,384,289,0 0,92,171,169,0 339,50,512,155,0 446,200,512,295,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_289.jpg 3,10,496,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_292.jpg 0,100,224,416,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_295.jpg 0,99,329,427,0 188,38,512,191,0 0,8,164,165,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_296.jpg 204,105,511,473,0 145,71,512,231,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_297.jpg 122,58,321,337,0 273,62,496,511,0 316,40,511,249,0 109,393,324,508,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_298.jpg 0,196,272,500,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_299.jpg 0,199,322,497,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_30.jpg 0,244,89,417,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_302.jpg 1,8,96,252,0 62,314,321,510,1 122,163,478,330,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_304.jpg 118,64,504,422,0 1,29,155,168,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_305.jpg 130,375,297,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_307.jpg 1,355,164,501,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_308.jpg 396,176,512,424,0 140,8,339,200,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_309.jpg 0,62,283,431,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_31.jpg 430,20,511,102,0 227,18,324,239,0 215,150,404,283,0 96,174,240,261,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_310.jpg 0,203,299,491,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_311.jpg 5,203,277,506,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_313.jpg 57,70,444,300,0 114,261,447,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_314.jpg 0,147,304,466,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_315.jpg 1,45,144,284,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_316.jpg 336,268,512,493,1 189,133,383,364,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_317.jpg 0,133,356,364,0 120,391,278,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_318.jpg 266,42,512,476,0 0,69,187,215,0 181,389,371,509,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_319.jpg 264,123,512,463,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_321.jpg 0,16,164,315,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_322.jpg 14,88,284,237,0 86,261,253,512,0 202,35,512,170,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_325.jpg 88,149,411,456,1 0,35,66,291,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_327.jpg 134,192,500,444,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_328.jpg 258,248,370,472,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_330.jpg 1,15,171,300,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_332.jpg 1,60,219,496,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_333.jpg 123,195,431,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_335.jpg 1,86,324,504,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_337.jpg 0,151,299,462,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_338.jpg 14,8,511,247,0 38,147,166,277,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_339.jpg 211,277,296,380,0 311,181,431,284,0 248,43,370,176,0 342,354,408,426,0 38,381,133,440,0 175,370,247,441,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_34.jpg 92,46,476,319,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_340.jpg 181,135,355,512,0 352,54,509,174,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_342.jpg 197,102,340,360,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_344.jpg 81,167,382,311,0 211,265,460,412,0 399,378,509,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_345.jpg 9,79,139,348,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_348.jpg 138,359,395,511,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_35.jpg 259,120,512,466,0 214,442,412,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_352.jpg 1,216,180,482,0 197,71,501,503,0 376,55,512,240,0 178,405,371,511,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_353.jpg 0,187,509,507,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_355.jpg 0,82,185,340,0 200,284,382,511,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_357.jpg 264,124,505,486,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_358.jpg 0,62,285,452,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_359.jpg 106,60,451,511,0 84,403,263,512,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_36.jpg 122,2,308,79,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_360.jpg 49,246,332,441,1 320,298,501,491,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_361.jpg 4,60,393,222,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_362.jpg 20,225,350,503,1 400,238,508,415,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_364.jpg 0,202,272,499,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_365.jpg 0,196,160,495,0 173,46,500,512,0 327,50,511,218,0 162,417,319,512,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_366.jpg 0,210,274,505,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_367.jpg 261,104,495,277,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_368.jpg 248,214,502,484,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_371.jpg 289,72,512,208,0 191,220,421,511,0 20,8,304,160,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_372.jpg 229,61,512,484,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_374.jpg 228,44,482,487,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_375.jpg 120,70,500,507,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_376.jpg 0,171,205,379,0 218,32,512,184,0 205,344,373,507,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_377.jpg 0,0,116,96,0 1,168,116,320,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_378.jpg 71,247,444,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_379.jpg 112,69,474,502,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_38.jpg 165,106,342,466,0 238,69,512,501,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_380.jpg 1,201,283,509,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_383.jpg 4,5,501,493,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_386.jpg 29,219,380,504,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_387.jpg 3,49,512,264,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_388.jpg 40,133,336,293,0 218,299,414,424,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_389.jpg 160,5,361,511,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_39.jpg 1,121,215,459,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_390.jpg 0,68,297,285,0 286,173,468,503,0 300,37,512,165,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_391.jpg 113,143,512,470,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_392.jpg 193,176,512,492,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_393.jpg 12,70,434,361,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_394.jpg 134,56,389,505,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_395.jpg 107,186,429,464,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_396.jpg 124,175,512,351,0 230,16,468,129,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_399.jpg 2,202,331,450,0 73,136,313,286,0 286,64,512,162,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_4.jpg 0,159,303,469,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_400.jpg 97,35,434,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_401.jpg 10,8,266,179,0 231,56,503,273,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_404.jpg 0,40,116,283,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_405.jpg 6,175,214,404,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_406.jpg 1,204,283,357,0 1,6,258,196,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_41.jpg 1,55,96,308,0 123,137,286,441,1 221,228,470,421,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_412.jpg 0,203,160,488,0 190,58,512,498,0 153,417,338,512,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_414.jpg 0,136,77,507,0 60,2,316,153,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_417.jpg 134,271,507,508,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_418.jpg 64,174,411,476,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_420.jpg 327,184,506,510,1 1,101,258,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_424.jpg 0,83,248,434,0 245,165,487,404,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_426.jpg 156,12,346,66,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_43.jpg 193,135,393,511,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_430.jpg 424,238,512,412,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_432.jpg 231,96,474,490,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_435.jpg 1,42,116,290,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_436.jpg 0,188,324,438,0 264,38,477,153,0 242,129,507,259,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_438.jpg 212,250,360,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_439.jpg 0,59,326,189,0 286,234,512,336,0 72,437,331,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_441.jpg 229,28,511,475,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_442.jpg 118,52,484,422,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_443.jpg 122,155,439,456,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_444.jpg 264,2,471,104,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_447.jpg 6,233,265,472,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_448.jpg 262,103,457,512,0 0,208,127,288,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_449.jpg 36,181,386,451,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_45.jpg 44,58,442,215,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_450.jpg 138,170,448,488,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_453.jpg 58,123,252,500,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_454.jpg 264,82,512,475,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_455.jpg 283,147,509,468,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_456.jpg 138,20,368,314,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_459.jpg 236,72,506,500,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_46.jpg 196,58,503,512,0 174,382,300,512,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_460.jpg 0,195,175,488,0 203,63,506,502,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_461.jpg 132,247,390,503,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_464.jpg 227,194,512,355,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_466.jpg 1,9,258,440,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_469.jpg 100,41,447,404,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_47.jpg 4,179,203,500,0 231,51,510,497,0 172,437,351,511,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_470.jpg 120,9,512,223,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_473.jpg 4,63,359,386,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_475.jpg 68,362,212,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_477.jpg 13,11,196,113,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_478.jpg 340,90,492,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_48.jpg 174,57,511,184,0 27,221,275,487,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_480.jpg 129,32,286,504,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_481.jpg 128,98,309,447,0 226,61,504,496,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_482.jpg 3,50,192,351,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_483.jpg 256,67,499,496,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_485.jpg 257,80,512,470,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_487.jpg 132,64,491,321,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_49.jpg 0,34,96,259,0 90,135,512,426,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_491.jpg 132,106,300,474,0 212,55,488,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_492.jpg 408,253,512,480,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_495.jpg 0,312,473,494,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_496.jpg 257,83,512,465,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_499.jpg 9,210,284,504,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_50.jpg 51,144,476,330,0 166,309,327,511,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_501.jpg 104,62,478,511,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_502.jpg 44,212,497,460,0 87,408,195,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_504.jpg 0,161,312,485,0 120,30,512,184,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_505.jpg 4,285,364,507,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_506.jpg 15,217,271,480,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_507.jpg 329,98,442,282,0 1,1,267,107,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_509.jpg 9,100,336,314,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_51.jpg 179,54,501,281,0 8,52,190,181,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_514.jpg 1,162,164,443,0 209,83,512,504,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_516.jpg 2,17,191,190,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_517.jpg 157,77,503,304,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_518.jpg 213,45,511,480,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_52.jpg 0,71,244,437,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_523.jpg 247,122,511,490,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_524.jpg 0,85,276,487,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_526.jpg 17,74,512,412,0 145,39,512,166,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_527.jpg 173,75,409,154,0 153,149,380,511,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_53.jpg 26,226,286,474,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_531.jpg 387,213,512,464,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_535.jpg 6,148,292,455,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_536.jpg 13,193,196,423,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_537.jpg 224,99,507,503,0 120,64,223,280,0 131,430,321,511,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_539.jpg 4,43,245,272,0 135,270,447,511,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_54.jpg 289,131,499,481,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_540.jpg 229,19,511,485,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_541.jpg 1,12,297,337,0 249,56,500,264,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_542.jpg 142,109,308,452,0 235,69,500,499,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_543.jpg 10,16,176,226,0 19,179,197,512,0 280,401,420,512,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_544.jpg 79,193,338,506,1 0,16,68,275,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_546.jpg 85,266,326,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_548.jpg 0,47,189,322,0 184,24,303,325,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_549.jpg 0,213,176,510,0 225,57,512,492,0 160,446,343,512,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_55.jpg 25,89,395,340,0 3,9,258,195,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_552.jpg 130,80,409,510,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_554.jpg 18,220,265,482,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_555.jpg 3,208,145,490,0 187,76,505,498,0 136,412,349,511,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_562.jpg 200,141,485,428,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_563.jpg 106,223,483,413,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_564.jpg 245,119,510,503,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_569.jpg 32,196,229,452,1 269,244,420,495,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_57.jpg 99,295,366,511,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_570.jpg 77,3,316,52,0 385,27,512,98,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_571.jpg 112,99,411,332,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_573.jpg 180,44,316,348,0 0,7,232,321,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_575.jpg 268,90,511,458,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_577.jpg 4,96,464,336,0 47,0,175,168,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_579.jpg 380,29,511,328,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_58.jpg 1,70,236,349,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_581.jpg 255,85,511,504,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_582.jpg 47,105,174,507,0 151,91,512,244,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_583.jpg 410,140,512,303,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_584.jpg 0,189,157,478,0 184,33,512,483,0 126,451,382,512,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_585.jpg 39,214,468,342,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_587.jpg 2,224,280,502,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_589.jpg 0,342,143,505,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_590.jpg 126,107,319,443,0 235,80,506,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_592.jpg 112,69,263,244,0 275,47,512,473,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_593.jpg 0,7,176,122,0 263,342,511,501,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_594.jpg 135,124,328,376,1 234,281,504,456,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_595.jpg 299,69,504,417,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_599.jpg 124,105,309,450,0 216,71,498,495,0 15,139,114,315,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_60.jpg 102,79,475,503,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_600.jpg 1,161,292,459,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_601.jpg 1,290,80,452,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_604.jpg 93,145,436,464,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_605.jpg 129,67,464,504,0 256,57,512,223,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_606.jpg 249,24,459,146,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_607.jpg 0,1,134,66,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_608.jpg 1,78,247,364,0 300,123,511,479,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_609.jpg 132,94,300,420,0 218,74,512,483,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_61.jpg 0,247,205,509,0 277,47,511,428,0 60,62,280,239,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_611.jpg 0,242,185,500,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_614.jpg 225,4,512,259,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_615.jpg 0,10,123,348,0 178,178,376,495,1 370,197,505,421,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_617.jpg 229,229,387,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_62.jpg 3,254,208,512,0 286,76,512,474,0 46,62,229,221,0 215,341,375,508,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_620.jpg 369,126,512,328,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_621.jpg 13,211,270,496,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_623.jpg 448,102,512,216,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_624.jpg 0,16,111,289,0 110,144,321,255,1 161,222,407,492,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_625.jpg 69,21,204,84,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_628.jpg 1,10,361,412,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_63.jpg 1,279,251,408,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_630.jpg 0,184,260,348,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_631.jpg 211,229,504,495,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_632.jpg 62,223,287,434,1 304,352,512,476,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_633.jpg 0,5,274,125,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_636.jpg 234,121,512,378,0 99,52,256,267,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_637.jpg 142,49,501,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_638.jpg 25,151,257,503,0 292,407,405,512,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_639.jpg 218,198,512,500,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_64.jpg 0,83,297,309,0 297,199,440,512,0 254,38,512,176,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_641.jpg 6,86,424,308,0 355,276,512,365,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_646.jpg 1,12,345,386,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_649.jpg 222,64,511,480,0 0,73,104,207,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_65.jpg 0,216,160,488,0 181,77,512,496,0 175,408,341,512,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_650.jpg 234,143,512,418,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_655.jpg 87,118,312,357,1 302,232,481,373,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_656.jpg 0,8,415,286,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_659.jpg 252,111,511,499,0 0,79,73,225,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_66.jpg 176,59,505,335,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_660.jpg 119,5,314,211,0 302,124,460,476,0 47,384,139,506,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_662.jpg 18,106,316,216,0 248,9,462,360,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_663.jpg 0,41,251,425,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_668.jpg 7,28,509,395,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_669.jpg 15,172,162,485,0 210,60,497,511,0 158,428,332,510,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_67.jpg 1,6,120,96,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_672.jpg 387,219,512,400,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_674.jpg 256,67,501,503,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_675.jpg 7,5,183,71,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_678.jpg 164,84,278,434,0 224,66,481,511,0 110,432,312,504,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_679.jpg 140,109,300,460,0 230,89,496,495,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_68.jpg 0,187,141,376,0 314,86,512,224,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_682.jpg 101,29,435,508,0 357,100,512,213,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_683.jpg 127,168,434,485,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_685.jpg 148,44,490,399,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_691.jpg 387,20,512,134,0 100,3,321,52,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_692.jpg 403,89,512,192,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_694.jpg 378,282,512,410,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_695.jpg 0,160,290,461,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_696.jpg 0,189,208,487,0 196,51,501,487,0 176,412,336,511,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_698.jpg 395,357,504,511,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_699.jpg 0,18,141,256,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_7.jpg 136,97,291,475,0 232,72,472,476,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_70.jpg 247,126,512,462,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_701.jpg 1,131,336,453,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_702.jpg 166,218,359,364,0 189,372,384,465,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_708.jpg 163,84,315,330,0 238,50,511,490,0 126,386,305,495,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_71.jpg 9,215,280,493,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_715.jpg 0,62,480,264,0 169,295,306,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_716.jpg 249,78,511,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_722.jpg 148,114,313,466,0 238,79,511,492,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_724.jpg 1,120,340,430,0 269,42,494,192,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_729.jpg 0,216,200,496,0 201,89,508,497,0 167,379,378,500,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_730.jpg 208,178,512,495,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_733.jpg 1,29,87,102,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_734.jpg 7,164,294,468,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_736.jpg 237,250,505,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_738.jpg 370,378,505,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_74.jpg 11,225,282,503,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_740.jpg 0,216,280,494,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_741.jpg 0,212,107,477,0 191,69,500,500,0 144,409,339,511,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_744.jpg 80,74,406,504,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_745.jpg 175,94,338,469,0 256,54,493,496,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_747.jpg 1,44,260,203,0 284,133,511,301,0 167,448,257,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_749.jpg 0,118,354,423,0 296,45,489,168,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_750.jpg 25,238,248,476,0 163,63,512,182,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_751.jpg 263,138,509,393,0 303,33,501,161,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_753.jpg 1,185,176,506,0 203,60,504,512,0 172,435,320,507,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_755.jpg 65,13,512,484,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_758.jpg 195,65,480,512,0 104,81,211,240,0 102,426,256,512,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_76.jpg 127,133,463,464,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_760.jpg 26,215,359,510,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_761.jpg 90,62,490,259,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_762.jpg 1,66,137,260,0 48,24,329,448,0 154,94,439,421,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_764.jpg 152,60,473,511,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_766.jpg 9,205,275,501,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_767.jpg 113,53,503,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_768.jpg 68,169,388,506,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_77.jpg 163,61,501,292,0 10,15,259,200,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_770.jpg 46,215,223,490,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_772.jpg 119,127,436,471,1 0,90,91,340,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_774.jpg 1,188,194,494,0 208,66,505,492,0 167,428,334,509,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_777.jpg 57,12,454,448,0 387,171,510,472,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_778.jpg 135,64,443,506,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_78.jpg 30,75,371,225,0 0,258,82,490,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_780.jpg 1,142,288,476,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_782.jpg 0,129,114,491,0 134,162,284,508,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_783.jpg 26,19,194,121,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_784.jpg 263,91,512,476,0 190,428,360,511,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_788.jpg 5,244,144,452,0 160,111,336,499,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_791.jpg 0,358,162,488,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_793.jpg 0,114,349,434,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_794.jpg 108,14,506,511,0 122,346,291,512,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_795.jpg 0,134,221,399,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_796.jpg 108,34,476,159,0 266,194,482,272,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_798.jpg 233,117,509,412,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_799.jpg 16,228,266,480,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_8.jpg 0,74,370,296,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_80.jpg 4,7,508,362,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_800.jpg 27,16,484,295,0 0,257,246,465,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_801.jpg 174,27,380,179,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_802.jpg 27,215,250,468,1 273,262,492,471,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_803.jpg 19,211,266,507,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_804.jpg 27,224,248,475,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_806.jpg 54,177,375,492,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_807.jpg 185,156,360,501,0 327,80,496,197,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_809.jpg 137,83,281,465,0 228,62,502,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_811.jpg 3,227,266,498,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_812.jpg 37,8,512,281,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_813.jpg 211,326,488,507,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_815.jpg 162,74,476,505,0 1,136,73,235,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_816.jpg 204,139,378,507,0 107,46,333,125,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_817.jpg 0,108,317,271,0 164,167,500,362,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_818.jpg 184,56,505,322,0 24,8,300,190,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_819.jpg 218,88,510,501,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_82.jpg 0,219,176,496,0 209,73,512,474,0 127,398,354,511,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_820.jpg 277,131,504,473,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_824.jpg 116,78,498,355,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_825.jpg 216,221,391,389,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_826.jpg 52,194,284,500,0 265,375,401,506,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_827.jpg 0,200,411,440,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_828.jpg 180,135,400,511,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_829.jpg 1,83,235,360,0 357,128,512,288,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_83.jpg 2,1,180,57,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_830.jpg 1,223,267,500,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_831.jpg 13,228,269,501,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_833.jpg 318,209,364,400,0 143,80,317,173,0 157,310,286,413,0 6,258,176,330,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_834.jpg 0,215,148,486,0 167,51,509,492,0 160,408,378,509,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_835.jpg 288,88,504,224,0 172,250,378,510,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_838.jpg 120,17,265,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_841.jpg 1,212,144,493,0 172,44,510,506,0 118,387,299,512,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_842.jpg 5,267,156,493,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_843.jpg 278,129,502,480,0 207,389,399,504,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_844.jpg 2,218,188,505,0 205,68,475,498,0 127,426,338,512,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_845.jpg 1,1,459,132,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_846.jpg 1,172,482,385,0 13,19,248,152,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_849.jpg 121,102,312,480,0 240,72,507,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_85.jpg 145,75,437,442,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_850.jpg 1,3,201,249,0 0,240,184,440,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_853.jpg 267,186,410,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_854.jpg 57,45,394,293,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_855.jpg 0,123,219,445,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_856.jpg 278,280,501,499,1 146,60,320,271,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_857.jpg 347,310,504,488,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_858.jpg 243,212,309,420,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_859.jpg 86,201,461,436,1 157,73,301,252,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_86.jpg 392,56,510,154,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_862.jpg 0,6,264,468,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_863.jpg 155,76,499,398,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_864.jpg 14,8,269,464,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_865.jpg 373,322,512,456,0 240,240,425,331,0 421,199,512,286,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_866.jpg 11,56,188,471,0 182,324,304,505,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_867.jpg 232,69,500,511,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_87.jpg 272,90,512,482,0 106,428,327,508,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_870.jpg 1,107,251,429,0 225,116,458,431,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_873.jpg 34,120,472,375,0 346,111,512,290,0 9,0,178,64,0 75,366,504,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_874.jpg 0,89,228,454,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_878.jpg 185,38,479,235,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_879.jpg 4,211,200,506,0 193,92,512,469,0 122,426,364,512,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_88.jpg 232,46,496,161,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_880.jpg 154,82,487,505,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_882.jpg 17,369,142,510,0 176,73,465,200,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_883.jpg 168,66,416,504,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_884.jpg 30,178,239,459,1 256,286,490,477,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_885.jpg 169,91,496,260,0 321,281,512,458,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_89.jpg 64,7,197,509,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_890.jpg 143,52,457,504,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_891.jpg 152,19,363,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_892.jpg 144,433,264,512,0 256,82,508,180,0 277,162,512,281,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_894.jpg 138,60,504,350,0 1,49,180,168,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_895.jpg 119,43,385,372,1 242,286,507,504,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_896.jpg 136,34,472,511,0 337,56,512,262,0 0,45,118,332,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_899.jpg 13,198,196,496,0 215,61,512,488,0 164,403,342,512,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_9.jpg 0,8,262,209,0 193,57,499,352,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_902.jpg 23,1,512,318,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_903.jpg 292,32,470,489,0 0,217,114,290,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_904.jpg 185,148,472,509,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_905.jpg 1,54,116,196,0 263,182,511,489,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_906.jpg 263,15,511,457,0 4,39,210,247,0 200,407,356,504,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_908.jpg 156,80,335,480,0 224,65,504,500,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_909.jpg 4,115,229,441,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_912.jpg 344,116,512,226,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_915.jpg 0,299,175,484,0 345,260,451,419,0 408,149,512,244,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_916.jpg 332,181,507,369,1 53,216,334,491,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_918.jpg 2,119,100,318,0 384,307,456,472,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_920.jpg 118,59,491,274,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_922.jpg 108,26,433,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_923.jpg 0,155,342,459,0 88,8,415,225,0 313,57,508,152,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_924.jpg 275,66,512,476,0 0,77,214,315,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_927.jpg 1,71,226,462,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_932.jpg 5,2,511,392,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_933.jpg 121,346,362,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_934.jpg 15,207,261,503,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_936.jpg 27,4,419,263,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_937.jpg 103,196,388,477,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_938.jpg 1,215,155,483,0 171,67,499,512,0 126,419,326,512,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_939.jpg 16,139,363,489,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_94.jpg 1,2,297,236,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_940.jpg 130,105,300,472,0 219,50,476,484,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_941.jpg 67,5,268,159,0 168,109,506,284,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_943.jpg 183,228,417,461,1 60,136,237,466,1 0,206,136,431,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_947.jpg 380,71,463,228,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_948.jpg 130,184,449,480,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_950.jpg 0,195,267,510,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_951.jpg 44,155,380,509,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_952.jpg 87,44,426,220,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_955.jpg 36,2,308,356,0 318,164,500,508,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_957.jpg 0,137,157,383,0 221,76,508,487,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_958.jpg 135,76,508,500,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_960.jpg 1,108,204,294,0 122,47,487,425,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_961.jpg 115,56,512,507,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_962.jpg 121,150,466,503,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_963.jpg 108,49,486,439,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_965.jpg 136,3,359,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_967.jpg 159,270,271,512,0 283,122,505,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_968.jpg 125,116,292,472,0 212,63,502,509,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_97.jpg 0,152,139,430,0 199,70,501,501,0 146,432,390,512,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_970.jpg 142,105,317,482,0 236,73,511,492,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_971.jpg 104,76,496,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_972.jpg 268,88,512,482,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_973.jpg 108,103,512,342,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_974.jpg 1,56,96,328,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_976.jpg 1,129,226,467,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_977.jpg 120,231,379,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_978.jpg 0,4,228,329,0 280,51,457,466,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_979.jpg 0,24,233,383,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_981.jpg 135,69,447,511,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_989.jpg 60,87,334,431,1 312,282,504,504,1 184,10,345,119,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_99.jpg 194,13,406,335,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_991.jpg 281,23,481,129,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_995.jpg 167,170,497,337,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_997.jpg 0,77,95,176,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_998.jpg 119,108,511,511,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_20180315_999.jpg 401,47,512,168,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_0.jpg 39,234,167,508,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_1.jpg 24,247,258,506,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_100.jpg 106,213,338,493,1 1,12,98,313,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_101.jpg 85,185,355,495,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_102.jpg 96,188,319,492,1 1,12,68,263,0 263,147,452,306,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_103.jpg 0,13,121,287,0 191,189,478,311,1 157,296,357,501,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_104.jpg 220,189,487,325,1 170,320,386,500,1 115,124,262,229,1 0,17,118,340,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_105.jpg 0,7,89,234,0 100,128,299,219,1 188,203,412,491,1 408,221,502,491,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_106.jpg 0,3,212,330,0 259,202,494,497,1 199,80,341,193,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_107.jpg 30,2,316,324,0 335,180,511,488,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_108.jpg 31,5,341,339,0 370,184,507,505,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_109.jpg 386,188,507,494,1 72,14,411,454,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_11.jpg 0,238,216,495,0 0,42,221,233,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_110.jpg 1,3,450,394,0 357,175,511,467,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_111.jpg 0,5,358,348,0 334,132,509,486,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_112.jpg 357,204,511,481,1 300,100,494,235,1 0,11,340,440,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_113.jpg 2,158,239,512,0 309,197,511,504,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_116.jpg 311,186,512,496,1 0,131,265,497,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_117.jpg 1,90,240,409,0 298,116,512,484,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_118.jpg 298,101,512,485,1 0,109,141,395,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_119.jpg 289,45,512,391,1 0,70,93,197,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_12.jpg 1,78,176,332,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_120.jpg 281,44,504,395,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_121.jpg 317,99,508,418,1 0,208,45,278,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_122.jpg 372,123,511,360,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_13.jpg 0,7,162,215,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_131.jpg 5,7,512,360,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_132.jpg 0,4,470,148,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_137.jpg 236,161,512,505,1 0,52,98,220,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_138.jpg 197,178,512,507,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_139.jpg 197,182,504,510,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_140.jpg 215,188,509,509,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_141.jpg 190,188,510,511,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_142.jpg 206,151,502,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_143.jpg 213,192,508,504,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_144.jpg 255,234,508,503,1 330,122,426,267,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_145.jpg 220,174,512,504,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_146.jpg 282,278,490,510,1 306,137,444,300,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_147.jpg 134,94,409,383,1 286,252,511,493,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_148.jpg 88,112,351,433,1 181,12,344,113,1 337,293,512,493,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_149.jpg 94,6,328,272,1 284,273,511,498,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_15.jpg 120,80,284,154,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_150.jpg 158,74,380,391,1 314,245,512,508,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_151.jpg 167,147,369,352,1 320,282,491,506,1 0,9,143,223,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_152.jpg 193,92,424,341,1 279,292,512,502,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_153.jpg 206,112,508,424,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_154.jpg 200,147,512,434,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_155.jpg 296,173,506,461,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_158.jpg 37,1,436,272,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_159.jpg 164,8,508,310,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_16.jpg 128,101,312,189,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_160.jpg 181,36,510,342,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_161.jpg 251,268,500,511,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_162.jpg 211,380,496,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_166.jpg 0,168,274,350,0 97,284,369,475,0 338,341,504,511,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_167.jpg 1,111,183,284,0 181,237,447,404,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_168.jpg 89,230,379,502,0 0,151,56,227,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_169.jpg 1,191,443,469,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_170.jpg 1,163,297,288,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_171.jpg 0,68,100,173,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_176.jpg 194,30,360,173,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_179.jpg 1,116,441,374,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_18.jpg 1,0,68,70,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_180.jpg 0,144,128,243,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_181.jpg 34,18,200,111,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_182.jpg 15,22,201,126,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_183.jpg 22,28,213,133,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_184.jpg 32,25,197,127,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_189.jpg 89,39,418,234,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_19.jpg 1,0,100,89,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_190.jpg 119,100,512,368,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_191.jpg 1,33,512,266,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_192.jpg 0,5,219,108,0 307,36,512,143,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_194.jpg 251,20,448,139,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_195.jpg 220,29,431,155,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_196.jpg 228,42,445,171,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_197.jpg 311,80,423,242,0 4,4,260,65,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_2.jpg 30,228,300,508,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_200.jpg 120,166,512,340,0 180,7,452,109,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_201.jpg 161,206,512,404,0 458,162,512,236,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_202.jpg 1,145,236,305,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_203.jpg 5,76,512,324,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_207.jpg 0,168,274,347,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_208.jpg 0,274,237,424,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_210.jpg 1,2,107,58,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_214.jpg 210,20,432,127,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_215.jpg 101,2,351,47,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_218.jpg 7,70,512,279,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_221.jpg 339,272,512,387,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_222.jpg 124,188,512,340,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_223.jpg 0,77,73,157,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_226.jpg 173,44,454,260,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_227.jpg 53,207,512,437,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_228.jpg 12,104,512,469,0 135,29,511,189,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_229.jpg 121,5,486,116,0 0,40,504,229,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_23.jpg 0,78,139,373,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_230.jpg 0,6,313,158,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_231.jpg 0,79,360,314,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_235.jpg 124,3,314,67,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_236.jpg 187,48,349,170,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_238.jpg 268,17,458,110,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_24.jpg 110,145,341,507,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_25.jpg 298,180,400,509,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_252.jpg 177,179,512,328,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_253.jpg 0,116,237,258,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_26.jpg 288,113,461,490,0 0,206,88,298,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_268.jpg 10,144,332,349,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_269.jpg 17,136,306,343,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_27.jpg 1,92,503,501,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_270.jpg 26,81,480,371,0 369,115,512,242,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_271.jpg 61,22,267,120,0 48,133,481,328,0 403,119,512,260,0 2,309,434,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_272.jpg 4,51,396,268,0 318,22,512,237,0 350,375,506,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_273.jpg 0,107,260,242,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_274.jpg 6,130,311,308,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_275.jpg 7,184,308,365,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_28.jpg 1,128,160,238,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_29.jpg 0,95,173,285,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_299.jpg 243,81,510,192,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_3.jpg 45,218,224,496,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_300.jpg 176,87,479,218,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_301.jpg 58,124,512,286,0 419,288,512,401,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_302.jpg 5,134,340,336,0 359,348,511,501,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_305.jpg 4,3,229,160,0 4,348,252,500,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_307.jpg 371,113,512,224,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_311.jpg 311,75,512,237,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_313.jpg 323,331,512,489,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_314.jpg 268,253,511,494,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_315.jpg 239,32,501,177,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_317.jpg 293,145,511,352,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_318.jpg 309,76,511,309,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_319.jpg 382,122,511,260,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_32.jpg 231,332,511,507,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_320.jpg 336,99,512,212,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_321.jpg 225,61,512,219,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_322.jpg 138,52,491,222,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_323.jpg 61,59,463,223,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_326.jpg 1,71,248,302,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_327.jpg 4,80,212,371,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_328.jpg 204,83,512,247,0 1,32,183,269,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_329.jpg 80,2,386,154,0 4,40,148,201,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_336.jpg 213,197,511,355,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_337.jpg 3,168,512,356,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_338.jpg 1,95,456,354,0 40,9,188,159,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_339.jpg 1,2,187,136,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_34.jpg 0,161,169,392,0 366,260,501,500,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_340.jpg 3,65,87,131,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_36.jpg 194,344,502,512,1 172,246,309,333,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_37.jpg 136,319,472,510,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_38.jpg 133,165,504,454,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_39.jpg 126,158,508,432,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_4.jpg 44,190,276,511,0 61,64,212,144,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_40.jpg 117,134,500,462,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_41.jpg 120,143,330,388,1 298,320,512,472,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_42.jpg 150,133,310,405,1 280,263,498,452,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_43.jpg 114,136,335,337,1 222,288,460,447,1 15,1,121,64,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_44.jpg 108,125,438,457,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_45.jpg 120,132,441,440,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_46.jpg 142,60,404,443,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_47.jpg 95,122,383,427,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_48.jpg 105,156,369,462,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_49.jpg 137,160,396,456,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_5.jpg 56,100,226,508,0 93,61,283,135,0 272,428,408,511,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_50.jpg 123,153,376,479,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_53.jpg 83,204,421,485,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_54.jpg 112,196,335,460,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_55.jpg 141,155,320,472,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_56.jpg 129,153,350,460,1 342,256,496,403,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_57.jpg 123,176,320,448,1 315,291,479,458,1 0,33,70,240,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_58.jpg 54,203,295,456,1 275,301,507,469,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_59.jpg 34,228,348,456,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_6.jpg 58,214,292,511,0 272,396,404,509,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_60.jpg 22,222,217,431,1 263,278,426,486,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_61.jpg 37,182,231,450,1 269,264,438,489,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_62.jpg 34,184,218,469,1 289,275,448,490,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_63.jpg 21,126,230,405,1 252,279,431,405,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_64.jpg 145,125,290,352,1 309,243,494,361,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_65.jpg 71,134,269,356,1 231,248,481,384,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_66.jpg 59,140,269,349,1 193,264,449,466,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_67.jpg 72,149,273,327,1 178,273,424,427,1 2,16,96,228,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_68.jpg 1,26,105,272,0 133,138,264,376,1 179,268,453,440,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_69.jpg 123,133,271,333,1 146,266,468,432,1 1,37,84,236,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_7.jpg 53,209,285,503,0 292,403,413,512,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_70.jpg 1,21,153,342,0 149,141,460,448,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_71.jpg 0,17,105,368,0 145,152,270,450,1 251,256,460,422,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_74.jpg 113,146,242,454,1 244,247,432,422,1 0,53,59,388,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_75.jpg 44,180,368,445,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_76.jpg 44,182,388,409,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_77.jpg 40,155,393,410,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_78.jpg 64,176,390,405,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_79.jpg 129,218,419,457,1 4,213,84,472,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_8.jpg 52,147,236,504,0 272,405,401,511,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_80.jpg 58,179,375,450,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_81.jpg 72,203,368,447,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_82.jpg 58,165,382,460,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_83.jpg 56,192,394,458,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_84.jpg 75,201,365,454,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_85.jpg 50,208,356,470,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_86.jpg 66,211,352,481,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_87.jpg 41,224,355,486,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_88.jpg 36,212,385,477,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_89.jpg 46,214,352,485,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_90.jpg 40,224,337,486,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_91.jpg 29,202,336,476,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_92.jpg 78,217,336,486,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_95.jpg 41,246,336,496,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_96.jpg 51,251,311,511,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_97.jpg 95,240,320,504,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_98.jpg 133,240,344,486,1 0,58,107,434,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_date1114_99.jpg 21,8,148,377,1 160,207,353,480,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_detail2_10.jpg 27,366,203,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_detail2_19.jpg 14,389,179,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-14350.jpg 130,95,495,504,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-14380.jpg 122,71,498,509,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-14410.jpg 123,92,497,504,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-14440.jpg 121,69,483,511,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-14530.jpg 106,17,449,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-14590.jpg 115,43,436,507,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-14620.jpg 115,26,437,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-14650.jpg 107,31,425,493,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_0.jpg 130,61,444,219,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_1260.jpg 230,40,460,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_1290.jpg 231,164,511,477,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_1380.jpg 0,255,86,407,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_1410.jpg 1,319,64,409,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_150.jpg 344,7,512,387,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_1530.jpg 251,58,464,505,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_1740.jpg 104,109,375,341,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_1770.jpg 228,53,508,485,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_240.jpg 19,11,512,458,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_270.jpg 6,3,486,480,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_30.jpg 0,6,244,382,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_300.jpg 11,12,508,432,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_3720.jpg 1,152,208,398,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_3750.jpg 0,184,205,411,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_3840.jpg 9,9,479,404,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_3870.jpg 24,3,512,277,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_3900.jpg 24,8,455,163,0 16,184,234,360,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_3990.jpg 216,8,512,242,0 280,237,512,430,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_4020.jpg 179,1,512,323,0 292,293,458,454,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_4050.jpg 135,12,512,486,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_4080.jpg 127,71,485,508,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_4140.jpg 130,243,356,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_4170.jpg 127,222,383,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_4200.jpg 127,105,489,511,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_4230.jpg 120,68,512,508,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_4260.jpg 100,80,484,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_4350.jpg 106,72,484,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_4380.jpg 120,66,490,505,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_4440.jpg 119,64,462,504,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_4500.jpg 139,17,481,512,0 1,66,96,303,0 330,67,512,254,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_4560.jpg 112,23,433,507,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_4590.jpg 108,24,437,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_4620.jpg 114,29,433,509,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_4680.jpg 121,21,403,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_4710.jpg 110,24,445,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_4740.jpg 111,28,405,511,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_5220.jpg 164,55,453,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_5250.jpg 150,63,438,501,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_5280.jpg 159,76,421,511,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_5340.jpg 155,49,436,503,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_540.jpg 180,11,445,136,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_5430.jpg 148,51,472,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_5460.jpg 155,51,436,506,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_5520.jpg 237,43,484,198,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_5580.jpg 216,48,462,232,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_5610.jpg 224,35,454,160,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_5670.jpg 217,57,392,216,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_5730.jpg 133,82,511,409,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_5790.jpg 293,143,496,501,0 199,76,319,302,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_5820.jpg 316,111,486,510,0 186,53,332,245,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_5850.jpg 291,77,512,509,0 144,57,308,344,0 63,387,288,512,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_5910.jpg 88,430,293,512,1 144,105,257,420,0 284,59,497,412,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_5940.jpg 138,94,283,412,0 276,56,506,512,0 120,436,257,506,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_6000.jpg 137,88,287,434,0 269,74,501,433,0 144,450,277,511,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_6030.jpg 136,108,283,434,0 272,80,512,508,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_6150.jpg 119,115,269,439,0 258,66,504,505,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_6240.jpg 132,123,292,440,0 216,76,512,495,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_6330.jpg 158,118,325,429,0 261,77,512,494,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_6360.jpg 180,119,323,435,0 257,80,512,480,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_6390.jpg 176,127,320,437,0 259,61,512,494,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_6450.jpg 133,123,339,440,0 231,59,497,489,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_6480.jpg 168,112,344,447,0 243,73,497,472,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_6510.jpg 160,133,291,464,0 248,78,512,492,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_6540.jpg 168,130,330,473,0 254,77,488,488,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_6570.jpg 150,105,315,451,0 257,85,494,492,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_6660.jpg 155,81,287,341,0 273,66,512,417,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_6690.jpg 220,62,476,501,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_6780.jpg 0,128,178,370,0 211,68,508,500,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_6810.jpg 0,166,166,420,0 213,78,512,433,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_6870.jpg 1,184,137,474,0 205,63,502,445,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_6900.jpg 0,172,139,465,0 206,59,511,459,0 157,435,286,512,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_6930.jpg 0,202,128,480,0 204,76,486,445,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_7410.jpg 0,214,173,511,0 216,64,512,394,0 199,423,406,504,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_7470.jpg 0,206,173,496,0 199,66,511,412,0 211,424,389,512,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_7500.jpg 165,403,371,512,1 0,227,169,512,0 202,68,512,398,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_7530.jpg 3,215,160,506,0 216,81,512,401,0 183,417,357,512,1
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_7590.jpg 1,211,210,512,0 236,67,504,376,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_7650.jpg 0,232,221,500,0 286,66,511,402,0 52,59,262,206,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_7680.jpg 35,43,232,251,0 0,267,148,481,0 283,65,511,441,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_7770.jpg 272,32,506,401,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_7800.jpg 289,58,512,392,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_7830.jpg 254,45,511,395,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_7890.jpg 250,50,503,415,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_7920.jpg 227,19,492,468,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_7980.jpg 187,40,463,469,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_8040.jpg 89,52,447,464,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_8070.jpg 105,53,486,446,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_8130.jpg 260,50,500,504,0 0,72,136,192,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_8250.jpg 1,68,226,313,0 280,49,512,494,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_8310.jpg 259,86,512,482,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_8340.jpg 266,75,512,480,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_8370.jpg 246,98,505,495,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_8460.jpg 0,62,178,191,0 248,99,507,512,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_8490.jpg 287,115,502,497,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_8520.jpg 253,106,494,491,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_8790.jpg 272,55,467,463,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_8820.jpg 257,55,491,468,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_8850.jpg 281,110,474,460,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_9240.jpg 291,142,503,439,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_9330.jpg 292,126,505,467,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_9390.jpg 172,79,444,482,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_9450.jpg 179,77,458,488,0 1,160,55,224,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_9480.jpg 182,73,484,495,0 0,218,80,305,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_9510.jpg 164,67,461,496,0 0,201,73,288,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_9540.jpg 131,70,478,511,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_9570.jpg 154,65,444,496,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_9630.jpg 146,56,450,507,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_9660.jpg 153,72,442,498,0
+C:/Users/Ray/pycode/YOLOv3_TensorFlow-master-wizyoung/annodehze_train/_hf1204-1_9690.jpg 161,73,443,504,0
